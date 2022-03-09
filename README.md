@@ -1,4 +1,4 @@
-# Hierarchical-structure-detection-with-graph-self-supervised-learning
+# Hierarchical Structure Detection With Graph Self-supervised Learning
 
 This repository contains the source codes of
 
